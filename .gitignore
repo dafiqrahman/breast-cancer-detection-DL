@@ -1,0 +1,7 @@
+#ignore documents folder
+*/documents/*
+```
+
+*.docx
+*.pdf
+documents/~WRL0003.tmp
