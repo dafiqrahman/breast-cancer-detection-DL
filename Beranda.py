@@ -20,8 +20,8 @@ st.markdown('<h1 class="center">Aplikasi Prediksi Kanker Payudara Menggunakan Ja
 
 st.markdown("""
 <br><h4 class="center">Nama Pembuat:</h4>
-<p class="center">1. Rizwan Arisandi</p>
-<p class="center">2. Adhe Lingga Dewi</p>
-<p class="center">3. Fathy Radhia</p>
-<p class="center">4. Julian Daffa Dzaky</p>
+<p class="center">Rizwan Arisandi, S.Si, M.Si.</p>
+<p class="center">Adhe Lingga Dewi, S.Si, M.Si.</p>
+<p class="center">Fathy Radhia, S.Kom, M.Kom</p>
+<p class="center">Julian Daffa Dzaky</p>
 """, unsafe_allow_html=True)
